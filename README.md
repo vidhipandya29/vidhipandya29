@@ -2,7 +2,7 @@
 
 I'm a Computer Science graduate and Shopify Dev Degree alum with a passion for solving technical problems using data. 
 
-Over the past few years, I’ve gained internship experience across frontend, mobile, data engineering, data science, and machine learning — building products, uncovering insights, and driving impact. I enjoy working at the intersection of math, data, and engineering, with hands-on experience analyzing financial data and predicting fraudulent behavior using ML techniques.
+Over the past few years, I’ve gained experience across frontend, mobile, data engineering, data science, and machine learning—enhancing product performance, improving data processes, and uncovering data insights. I enjoy working at the intersection of math, data, and technology, with hands-on experience analyzing financial data and predicting fraudulent behavior using ML techniques.
 
 I'm always looking to learn, grow, and collaborate with others who are equally curious and driven. Currently, I'm seeking new grad roles in software engineering, data science, or machine learning.
 
