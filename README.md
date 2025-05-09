@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Vidhi👋🏽
 
 <!--
-**vidhipandya29/vidhipandya29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate and Shopify Dev Degree alum with a passion for solving technical problems using data. 
 
-Here are some ideas to get you started:
+Over the past few years, I’ve gained internship experience across frontend, mobile, data engineering, data science, and machine learning — building products, uncovering insights, and driving impact. I enjoy working at the intersection of math, data, and engineering, with hands-on experience analyzing financial data and predicting fraudulent behavior using ML techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm always looking to learn, grow, and collaborate with others who are equally curious and driven. Currently, I'm seeking new grad roles in software engineering, data science, or machine learning.
+
+**🛠 Technical Skills**
+**Languages:** Python, SQL, Kotlin, TypeScript, Java, C, JavaScript, HTML, CSS, GraphQL, Ruby
+**Technologies:** MySQL, React, React Native, Solara, Node, Rails, Tailwind, SASS, Express, MongoDB
+**Tools:** BigQuery, Airflow, Google Colab, Git, Storybook, Figma, Docker, Google Cloud Platform, Postman, Atlassian Suite
+
+**📫 Connect with Me!**
+**LinkedIn:** https://www.linkedin.com/in/vidhipandya29/
+**Email:** vidhipandya820@gmail.com
+
 -->
