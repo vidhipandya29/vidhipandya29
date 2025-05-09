@@ -1,10 +1,10 @@
 ## Hi, I'm Vidhi 👋🏽
 
-I'm a Computer Science graduate and Shopify Dev Degree alum with a passion for solving technical problems using data. 
+I'm a Computer Science grad and Shopify Dev Degree alum passionate about solving technical problems using data.
 
-Over the past few years, I’ve gained experience across frontend, mobile, data engineering, data science, and machine learning—enhancing product performance, improving data processes, and uncovering data insights. I enjoy working at the intersection of math, data, and technology, with hands-on experience analyzing financial data and predicting fraudulent behavior using ML techniques.
+With experience in frontend, mobile, data engineering, data science, and machine learning, I've worked on enhancing product performance, optimizing data processes, and uncovering insights. I love working at the intersection of math, data, and tech, with hands-on experience in financial data analysis and fraud prediction using ML.
 
-I'm always looking to learn, grow, and collaborate with others who are equally curious and driven. Currently, I'm seeking new grad roles in software engineering, data science, or machine learning.
+Currently, I'm exploring new grad roles in software engineering, data science, or machine learning.
 
 ### 🛠 Technical Skills
 **Languages:** Python, SQL, Kotlin, TypeScript, Java, C, JavaScript, HTML, CSS, GraphQL, Ruby  
