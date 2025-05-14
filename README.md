@@ -4,8 +4,6 @@ I'm a Computer Science grad and Shopify Dev Degree alum passionate about solving
 
 With experience in frontend, mobile, data engineering, data science, and machine learning, I've worked on enhancing product performance, optimizing data processes, and uncovering insights about fraudulent behaviour. I love working at the intersection of math, data, and tech, with hands-on experience in financial data analysis and fraud prediction using ML.
 
-Currently, I'm exploring roles in software engineering, data science, or machine learning.
-
 **🛠 Technical Skills**
 
 **Languages:** Python, SQL, Kotlin, TypeScript, Java, C, JavaScript, HTML, CSS, GraphQL, Ruby  
